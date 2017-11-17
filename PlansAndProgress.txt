@@ -1,6 +1,6 @@
 What we do:
 A site for a book publisher
-CSS writen by us based on a project by a graphic designer (choose framework)
+CSS writen by us based on a project by a graphic designer (Vue.js, Ember, Bootstrap)
 Database, indexing, CSS blocks of items(?), search engine taken care of by Shoper
 
 Progress:
